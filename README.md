@@ -1,2 +1,2 @@
-# .GITHUB.IO
+# .github.io
 Training_TestSetUp
